@@ -12,6 +12,12 @@ Three.js による3D表現の習作
 
 ---
 
+## ライセンス | License
+
+MIT License
+
+---
+
 ## 制作者 | Author
 
 [QWEL.DESIGN](https://qwel.design)  
