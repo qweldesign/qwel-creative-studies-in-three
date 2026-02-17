@@ -8,7 +8,7 @@ Three.js による3D表現の習作
 
 ## 内容 | Contents
 
-- Hello World
+- First work
 
 ---
 

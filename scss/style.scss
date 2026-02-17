@@ -18,8 +18,6 @@
 // Mixins
 @import "mixins/background";
 @import "mixins/button";
-@import "mixins/form";
-@import "mixins/table";
 @import "mixins/type";
 
 // Foundation
@@ -32,10 +30,3 @@
 @import "main";
 @import "footer";
 @import "icon";
-
-// Utility
-//@import "utilities/flex";
-//@import "utilities/flexItem";
-//@import "utilities/spacing";
-//@import "utilities/text";
-//@import "utilities/visibility";
